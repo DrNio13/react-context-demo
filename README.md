@@ -1,4 +1,17 @@
+## React ( 16.8.6 ) Context API 
+
+Deployed to Heroku
+
+https://react-context-demo-app.herokuapp.com/ 
+
+A simple demo app showcasing how to use the new Context API ( stable and recommended by React ) in lifecycle hooks, render method or anywhere else in your application.
+The app does not have prod code quality - use your own ideas / knowledge.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## How to deploy a React app to Heroku
+
+Follow this documentation https://elements.heroku.com/buildpacks/mars/create-react-app-buildpack
 
 ## Available Scripts
 
